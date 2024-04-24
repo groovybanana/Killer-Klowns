@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+    <event name="InfectedClown">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>100</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+	<!-- VANILLA -->
+            <child lootmax="5" lootmin="0" max="0" min="3" type="HMG_Killer_Clown_Slim"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="HMG_Killer_Clown_Spikey"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="HMG_Killer_Clown_Shorty"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="HMG_Killer_Clown_Rudy"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="HMG_Killer_Clown_Magori"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="HMG_Killer_Clown_Jumbo"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="HMG_Killer_Clown_Jojo"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="HMG_Killer_Clown_Fatso"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="HMG_Killer_Clown_Chubby"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="HMG_Killer_Clown_Boco"/>
+            <child lootmax="5" lootmin="0" max="0" min="3" type="HMG_Killer_Clown_Bibbo"/>
+	<!-- TIER 1 -->
+            <child lootmax="6" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Slim_T1"/>
+            <child lootmax="6" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Spikey_T1"/>
+            <child lootmax="6" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Shorty_T1"/>
+            <child lootmax="6" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Rudy_T1"/>
+            <child lootmax="6" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Magori_T1"/>
+            <child lootmax="6" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Jumbo_T1"/>
+            <child lootmax="6" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Jojo_T1"/>
+            <child lootmax="6" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Fatso_T1"/>
+            <child lootmax="6" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Chubby_T1"/>
+            <child lootmax="6" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Boco_T1"/>
+            <child lootmax="6" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Bibbo_T1"/>
+	<!-- TIER 2 -->
+            <child lootmax="7" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Slim_T2"/>
+            <child lootmax="7" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Spikey_T2"/>
+            <child lootmax="7" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Shorty_T2"/>
+            <child lootmax="7" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Rudy_T2"/>
+            <child lootmax="7" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Magori_T2"/>
+            <child lootmax="7" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Jumbo_T2"/>
+            <child lootmax="7" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Jojo_T2"/>
+            <child lootmax="7" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Fatso_T2"/>
+            <child lootmax="7" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Chubby_T2"/>
+            <child lootmax="7" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Boco_T2"/>
+            <child lootmax="7" lootmin="0" max="0" min="2" type="HMG_Killer_Clown_Bibbo_T2"/>
+	<!-- TIER 3 -->
+            <child lootmax="8" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Slim_T3"/>
+            <child lootmax="8" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Spikey_T3"/>
+            <child lootmax="8" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Shorty_T3"/>
+            <child lootmax="8" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Rudy_T3"/>
+            <child lootmax="8" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Magori_T3"/>
+            <child lootmax="8" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Jumbo_T3"/>
+            <child lootmax="8" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Jojo_T3"/>
+            <child lootmax="8" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Fatso_T3"/>
+            <child lootmax="8" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Chubby_T3"/>
+            <child lootmax="8" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Boco_T3"/>
+            <child lootmax="8" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Bibbo_T3"/>
+	<!-- TIER 4 -->
+            <child lootmax="10" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Slim_T4"/>
+            <child lootmax="10" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Spikey_T4"/>
+            <child lootmax="10" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Shorty_T4"/>
+            <child lootmax="10" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Rudy_T4"/>
+            <child lootmax="10" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Magori_T4"/>
+            <child lootmax="10" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Jumbo_T4"/>
+            <child lootmax="10" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Jojo_T4"/>
+            <child lootmax="10" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Fatso_T4"/>
+            <child lootmax="10" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Chubby_T4"/>
+            <child lootmax="10" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Boco_T4"/>
+            <child lootmax="10" lootmin="0" max="0" min="1" type="HMG_Killer_Clown_Bibbo_T4"/>
+        </children>
+    </event>
+</events>

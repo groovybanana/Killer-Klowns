@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="HMG_Killer_Clown_Slim">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Spikey">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Shorty">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Rudy">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsMedic" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Magori">
+		<cargo preset="foodHermit" />
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsPolice" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Jumbo">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsHunter" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Jojo">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Fatso">
+		<cargo preset="foodHermit" />
+		<cargo preset="foodVillage" />
+		<cargo preset="foodCity" />
+		<cargo preset="foodArmy" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Chubby">
+		<cargo preset="foodHermit" />
+		<cargo preset="foodVillage" />
+		<cargo preset="foodCity" />
+		<cargo preset="foodArmy" />
+		<cargo preset="toolsMedic" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Boco">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsPolice" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Bibbo">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsHunter" />
+		<cargo preset="toolsHunter" />
+	</type>
+
+	<type name="HMG_Killer_Clown_Slim_T1">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Spikey_T1">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Shorty_T1">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Rudy_T1">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsMedic" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Magori_T1">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsPolice" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Jumbo_T1">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsHunter" />
+		<cargo preset="toolsHunter" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Jojo_T1">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Fatso_T1">
+		<cargo preset="foodHermit" />
+		<cargo preset="foodVillage" />
+		<cargo preset="foodCity" />
+		<cargo preset="foodArmy" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Chubby_T1">
+		<cargo preset="foodHermit" />
+		<cargo preset="foodVillage" />
+		<cargo preset="foodCity" />
+		<cargo preset="foodArmy" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Boco_T1">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsMedic" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HMG_Killer_Clown_Bibbo_T1">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsPolice" />
+		<cargo preset="mixVillage" />
+	</type>
+
+	<type name="HMG_Killer_Clown_Slim_T2">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsHunter" />
+		<cargo preset="toolsHunter" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="ammoCivil" />
+	</type>
+	<type name="HMG_Killer_Clown_Spikey_T2">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="ammoCivil" />
+	</type>
+	<type name="HMG_Killer_Clown_Shorty_T2">
+		<cargo preset="foodHermit" />
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="ammoCivil" />
+	</type>
+	<type name="HMG_Killer_Clown_Rudy_T2">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="ammoCivil" />
+	</type>
+	<type name="HMG_Killer_Clown_Magori_T2">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsMedic" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="ammoCivil" />
+	</type>
+	<type name="HMG_Killer_Clown_Jumbo_T2">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsPolice" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="ammoCivil" />
+	</type>
+	<type name="HMG_Killer_Clown_Jojo_T2">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsHunter" />
+		<cargo preset="toolsHunter" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="ammoCivil" />
+	</type>
+	<type name="HMG_Killer_Clown_Fatso_T2">
+		<cargo preset="foodHermit" />
+		<cargo preset="foodVillage" />
+		<cargo preset="foodCity" />
+		<cargo preset="foodArmy" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="ammoCivil" />
+	</type>
+	<type name="HMG_Killer_Clown_Chubby_T2">
+		<cargo preset="foodHermit" />
+		<cargo preset="foodVillage" />
+		<cargo preset="foodCity" />
+		<cargo preset="foodArmy" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="ammoCivil" />
+	</type>
+	<type name="HMG_Killer_Clown_Boco_T2">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="ammoCivil" />
+	</type>
+	<type name="HMG_Killer_Clown_Bibbo_T2">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsMedic" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="ammoCivil" />
+	</type>
+
+	<type name="HMG_Killer_Clown_Slim_T3">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsPolice" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+	</type>
+	<type name="HMG_Killer_Clown_Spikey_T3">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsHunter" />
+		<cargo preset="toolsHunter" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+	</type>
+	<type name="HMG_Killer_Clown_Shorty_T3">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+	</type>
+	<type name="HMG_Killer_Clown_Rudy_T3">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+	</type>
+	<type name="HMG_Killer_Clown_Magori_T3">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+	</type>
+	<type name="HMG_Killer_Clown_Jumbo_T3">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsMedic" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+	</type>
+	<type name="HMG_Killer_Clown_Jojo_T3">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsPolice" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+	</type>
+	<type name="HMG_Killer_Clown_Fatso_T3">
+		<cargo preset="foodHermit" />
+		<cargo preset="foodVillage" />
+		<cargo preset="foodCity" />
+		<cargo preset="foodArmy" />
+		<cargo preset="toolsHunter" />
+		<cargo preset="toolsHunter" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+	</type>
+	<type name="HMG_Killer_Clown_Chubby_T3">
+		<cargo preset="foodHermit" />
+		<cargo preset="foodVillage" />
+		<cargo preset="foodCity" />
+		<cargo preset="foodArmy" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+	</type>
+	<type name="HMG_Killer_Clown_Boco_T3">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+	</type>
+	<type name="HMG_Killer_Clown_Bibbo_T3">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+	</type>
+
+	<type name="HMG_Killer_Clown_Slim_T4">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsMedic" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="mixArmy" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="HMG_Killer_Clown_Spikey_T4">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsPolice" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="mixArmy" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="HMG_Killer_Clown_Shorty_T4">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsHunter" />
+		<cargo preset="toolsHunter" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="mixArmy" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="HMG_Killer_Clown_Rudy_T4">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="mixArmy" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="HMG_Killer_Clown_Magori_T4">
+		<cargo preset="foodHermit" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="mixArmy" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="HMG_Killer_Clown_Jumbo_T4">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="toolsVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="mixArmy" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="HMG_Killer_Clown_Jojo_T4">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsMedic" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="mixArmy" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="HMG_Killer_Clown_Fatso_T4">
+		<cargo preset="foodHermit" />
+		<cargo preset="foodVillage" />
+		<cargo preset="foodCity" />
+		<cargo preset="foodArmy" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsPolice" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="mixArmy" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="HMG_Killer_Clown_Chubby_T4">
+		<cargo preset="foodHermit" />
+		<cargo preset="foodVillage" />
+		<cargo preset="foodCity" />
+		<cargo preset="foodArmy" />
+		<cargo preset="toolsHunter" />
+		<cargo preset="toolsHunter" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="mixArmy" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="HMG_Killer_Clown_Boco_T4">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="mixArmy" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="HMG_Killer_Clown_Bibbo_T4">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="toolsHermit" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="mixHunter" />
+		<cargo preset="mixArmy" />
+		<cargo preset="ammoCivil" />
+		<cargo preset="ammoPolice" />
+		<cargo preset="ammoArmy" />
+	</type>
+</spawnabletypes>

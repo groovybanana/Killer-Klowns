@@ -1,0 +1,10 @@
+<!-- place this in your zombie_territories.xml file 
+This will spawn clowns at the amusement park areas scattered around Chernarus
+-->
+
+    <territory color="1289674462">
+        <zone name="InfectedClown" smin="0" smax="0" dmin="8" dmax="15" x="3257" z="12803" r="70"/>
+        <zone name="InfectedClown" smin="0" smax="0" dmin="8" dmax="15" x="6136" z="7624" r="70"/>
+        <zone name="InfectedClown" smin="0" smax="0" dmin="8" dmax="15" x="6445" z="2202" r="70"/>
+        <zone name="InfectedClown" smin="0" smax="0" dmin="8" dmax="15" x="9591" z="13684" r="70"/>
+    </territory>
